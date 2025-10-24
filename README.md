@@ -1,3 +1,15 @@
+# 👋 Hi, I'm Collins Divine
+
+## 🚀 About Me
+- 💻 I'm a [Your Role/Title] passionate about [your interests — e.g., web development, data science, AI].
+- 🎓 I’m currently learning [technology or skill you're learning].
+- 🌱 I love building projects that [solve a problem / automate tasks / help people].
+- 💬 Ask me about [topics you’re knowledgeable in].
+- 📫 How to reach me: [your email or social link].
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+!
 ## Hi there 👋
 
 <!--
